@@ -1,0 +1,96 @@
+body {
+  background: #ddd;
+  margin: 1rem;
+  padding: 1rem;
+  max-width: 500px;
+  margin: 2rem auto;
+  font-family: "Open Sans", sans-serif;
+}
+
+nav {
+	border-bottom: 2px solid orange;
+}
+
+ol {
+	padding-left: 0;
+}
+
+.crumb {
+	margin-right: 2em;
+	display: inline;
+}
+
+a {
+	color: orange;
+}
+
+a:visited {
+	color: crimson;
+}
+
+
+input {
+	display: block;
+}
+
+img {
+	max-width: 300px;
+}
+
+h1 {
+	font-family: 'Courier New', Courier, monospace;
+	font-size: 35px;
+	color: rgb(183, 53, 243);
+}
+
+
+.styling {
+	font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+
+}
+
+.greeting {
+	font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+	padding-left: 65px;
+	color: rgb(31, 31, 223);
+}
+
+#koda {
+width: 175px;
+
+}
+
+#maggie {
+	width: 195px;
+
+}
+
+.pets {
+	display: flex;
+	flex-direction: row;
+	justify-content: space-around;
+}
+
+.pet-names {
+	font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+	color: rgb(94, 12, 172);
+	display: flex;
+	flex-direction: row;
+	justify-content: space-evenly;
+}
+
+#cali {
+	width: 175px;
+}
+
+#boo-zoe {
+	width: 175px;
+}
+
+.pet-names2 {
+	font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+	color: rgb(94, 12, 172);
+	display: flex;
+	flex-direction: row;
+	justify-content: space-around;
+}
