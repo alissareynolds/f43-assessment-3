@@ -94,3 +94,8 @@ width: 175px;
 	flex-direction: row;
 	justify-content: space-around;
 }
+
+.makeYellow {
+	font-size: 20px;
+	color: rgb(221, 203, 9);
+}
