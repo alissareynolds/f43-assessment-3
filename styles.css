@@ -105,3 +105,25 @@ width: 175px;
 	color: rgb(182, 54, 54);
 	
 }
+
+#fire-oak {
+	width: 185px
+}
+
+#patio {
+	width: 155px
+}
+
+#red {
+	width: 100px
+}
+
+#popRest {
+	display: flex;
+	justify-content: space-around;
+}
+
+#foodRecs {
+	display: flex;
+	justify-content: space-between;
+}
